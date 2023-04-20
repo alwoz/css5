@@ -1,8 +1,8 @@
 body{background-color: #f5f5dd;}
 h1{background-color: red;}
 h2{background-color: blue;}
-p1{background-color: green;}
-p2{background-color: orange;}
+h1 + p{background-color: green;}
+h2 + p{background-color: orange;}
 ol{background-color: black;}
 
 .c1{color: red}
